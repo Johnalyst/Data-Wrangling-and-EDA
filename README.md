@@ -1,3 +1,5 @@
+##ReadME
+
 This project demonstrates the data wrangling process for the tweet archive of WeRateDogs Twitter account. 
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. 
 In this project I will be going through different the data wrangling techniques that I used to gather, assess and clean all the necessary data before the analysis.
